@@ -1,5 +1,3 @@
-# Only meant to be run by calamares, so its scripts wouldn't have manpages
-calamares-settings-kamuriki: binary-without-manpage
-
-# We don't provide this file on purpose
-calamares-settings-kamuriki: diversion-for-unknown-file
+# The .desktop file uses bash to run firefox as the local
+# user. bash is included in the system.
+calamares-settings-kamuriki: desktop-command-not-in-package usr/share/applications/kamuriki-calamares.desktop bash

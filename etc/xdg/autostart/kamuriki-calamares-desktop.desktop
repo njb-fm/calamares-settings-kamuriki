@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Univalent Calamares Icon
+Icon=calamares
+Exec=sh -c "cp /usr/share/applications/kamuriki-calamares.desktop /home/kamuriki/Desktop/"
+Terminal=false
+Type=Application
+StartupNotify=false
