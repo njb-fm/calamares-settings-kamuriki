@@ -6,14 +6,13 @@ windowExpanding:    fullscreen
 strings:
     productName:         Kamuriki Linux
     shortProductName:    Kamuriki
-    version:             3.1
-    shortVersion:        barracuda
-    versionedName:       Kamuriki Linux 3.1 "Cheetah"
-    shortVersionedName:  Kamuriki 3.1
+    version:             1.8.2
+    shortVersion:        aardwolf
+    versionedName:       Kamuriki Linux 1.8.2 "Aardwolf"
+    shortVersionedName:  Kamuriki 1.8.2
     bootloaderEntryName: Kamuriki
-    productUrl:          https://sourceforge.net/projects/kamurikilinux/
-    supportUrl:          https://sourceforge.net/projects/kamurikilinux/support/
-    releaseNotesUrl:     https://sourceforge.net/projects/kamurikilinux/files/iso/cheetah/README.md/
+    productUrl:          https://osdn.net/projects/kamurikilinux/
+    supportUrl:          https://osdn.net/projects/kamurikilinux/forums/
 
 images:
     productLogo:         "logo.png"
