@@ -1,0 +1,16 @@
+726a342ac36e842411da0f43fb02fa4d  usr/lib/calamares/modules/bootloader-config/module.desc
+8f3fde172b47d22e6f80afd28770a204  usr/lib/calamares/modules/dpkg-unsafe-io-undo/module.desc
+52c4f334868b32557be9c2444892597f  usr/lib/calamares/modules/dpkg-unsafe-io/module.desc
+4b91d31fff61107459e6ea7f22c119aa  usr/lib/calamares/modules/sources-final/module.desc
+d178b9bb370c010484b87a6ac7951a59  usr/lib/calamares/modules/sources-media-unmount/module.desc
+d4663e21d64a21aa758b12fa6d66f8b8  usr/lib/calamares/modules/sources-media/module.desc
+d8c102e93314a80f764620d68ae520dc  usr/sbin/bootloader-config
+ade2063ed3a91abd0de9ba4dff38de3a  usr/sbin/dpkg-unsafe-io
+875e424a799e2ae37bc136488600e276  usr/sbin/sources-final
+872d4e82d5d8d05c4b3a27dfd35bf6a4  usr/sbin/sources-media
+9bde7eadc315cdc8423cdcb11f3c5008  usr/share/doc/calamares-settings-debian/changelog.Debian.gz
+ba0f285bb9a369565b5dbf64f8ad6100  usr/share/doc/calamares-settings-debian/changelog.gz
+21e0af09aa95f52ddca11f55366acee3  usr/share/doc/calamares-settings-debian/copyright
+78078914109ed6c55b24a15b497883da  usr/share/glib-2.0/schemas/96_calamares-settings-debian.gschema.override
+0198e0f91ed690a0dc9bdced361650ed  usr/share/lintian/overrides/calamares-settings-debian
+98adf4ac84972fc07fa1772f6938a885  usr/share/pixmaps/install-debian.png

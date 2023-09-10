@@ -1,0 +1,30 @@
+---
+componentName: kamuriki
+
+windowExpanding:    fullscreen
+
+strings:
+    productName:         Kamuriki Linux
+    shortProductName:    Kamuriki
+    version:             3.1
+    shortVersion:        barracuda
+    versionedName:       Kamuriki Linux 3.1 "Cheetah"
+    shortVersionedName:  Kamuriki 3.1
+    bootloaderEntryName: Kamuriki
+    productUrl:          https://sourceforge.net/projects/kamurikilinux/
+    supportUrl:          https://sourceforge.net/projects/kamurikilinux/support/
+    releaseNotesUrl:     https://sourceforge.net/projects/kamurikilinux/files/iso/cheetah/README.md/
+
+images:
+    productLogo:         "logo.png"
+    productIcon:         "icon.png"
+    productWelcome:      "welcome.png"
+
+slideshow:               "show.qml"
+
+slideshowAPI:            1
+
+style:
+   sidebarBackground:    "#808080"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#0068C8"

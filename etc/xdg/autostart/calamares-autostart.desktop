@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Calamares Auto Start
+Exec=sudo /usr/bin/calamares-autostart.sh
+StartupNotify=false
+NoDisplay=true
+
+X-GNOME-Autostart-Phase=Initialization
+X-KDE-autostart-phase=1
