@@ -28,6 +28,10 @@ deb [arch=amd64] https://sourceforge.net/projects/kamurikilinux/files/kamuriki $
 # WineHQ's Repository
 deb https://dl.winehq.org/wine-builds/debian $DEBIAN_RELEASE main
 
+# Multimedia PPA
+deb https://deb-multimedia.org/debian $DEBIAN_RELEASE main non-free
+deb-src https://deb-multimedia.org/debian $DEBIAN_RELEASE main non-free
+
 EOF
 
 exit 0
