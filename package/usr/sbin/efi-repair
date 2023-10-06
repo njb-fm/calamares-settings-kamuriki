@@ -10,6 +10,7 @@ if [ -d /sys/firmware/efi/efivars ]; then
         rm ${CHROOT}/boot/efi/EFI/boot/bootia32.efi
         cp ${CHROOT}/boot/grub/i386-efi/grub.efi ${CHROOT}/boot/efi/EFI/boot/bootia32.efi
     fi
+    chroot $CHROOT /usr/sbin/update-grub
+else
+    exit 0
 fi
-
-chroot $CHROOT /usr/sbin/update-grub

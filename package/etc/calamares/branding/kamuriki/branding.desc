@@ -6,10 +6,10 @@ windowExpanding:    fullscreen
 strings:
     productName:         Kamuriki Linux
     shortProductName:    Kamuriki
-    version:             3.1
+    version:             3.2
     shortVersion:        barracuda
-    versionedName:       Kamuriki Linux 3.1 "Cheetah"
-    shortVersionedName:  Kamuriki 3.1
+    versionedName:       Kamuriki Linux 3.2 "Cheetah"
+    shortVersionedName:  Kamuriki 3.2
     bootloaderEntryName: Kamuriki
     productUrl:          https://sourceforge.net/projects/kamurikilinux/
     supportUrl:          https://sourceforge.net/projects/kamurikilinux/support/
