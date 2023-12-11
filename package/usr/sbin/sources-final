@@ -25,6 +25,8 @@ deb-src http://deb.debian.org/debian $DEBIAN_RELEASE-backports main contrib non-
 # Kamuriki's Repository
 deb [arch=amd64] https://sourceforge.net/projects/kamurikilinux/files/kamuriki $KAMU_RELEASE main
 
+# WineHQ's Repository
+deb https://dl.winehq.org/wine-builds/debian $DEBIAN_RELEASE main
 
 EOF
 
